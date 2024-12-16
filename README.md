@@ -1,5 +1,6 @@
 ### git小遊戲
-<a herf="https://learngitbranching.js.org/?locale=zh_TW">Learn Git Branching</a>
+Learn Git Branching
+https://learngitbranching.js.org/?locale=zh_TW
 
 ### 工作目錄
 ### 暫存區
