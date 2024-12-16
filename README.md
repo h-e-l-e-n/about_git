@@ -66,9 +66,9 @@ git rebase --abort取消此次的rebase行為
 --mixed 工作目錄（預設）
 --soft 暫存區
 --hard 不要了
-git reset HEAD^ --hard 變成現在的前一步(往第一個parent移動)
+<p>git reset HEAD^ --hard 變成現在的前一步(往第一個parent移動)
 git reset HEAD~2 --hard 退兩步（往第二個parent移動）
-git reset HEAD~50 --hard 退50步
+git reset HEAD~50 --hard 退50步</p>
 ^ :caret 有方向性
 ~ :tilde 沒有方向性，都是往第一個parent移動
 * git reset ORIG_HEAD
