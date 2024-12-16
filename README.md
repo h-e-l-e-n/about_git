@@ -1,3 +1,6 @@
+### git小遊戲
+<a herf="https://learngitbranching.js.org/?locale=zh_TW">Learn Git Branching</a>
+
 ### 工作目錄
 ### 暫存區
 暫存區進度會 >= 儲存庫，即使檔案commit到儲存庫，在暫存區也不會消失
